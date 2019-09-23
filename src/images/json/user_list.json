@@ -1,0 +1,16 @@
+{
+    "user_list":[
+        {
+            "name" :"Abhishek",
+            "id":"1",
+            "role":"admin",
+            "class":"admin_user"
+        },
+        {
+            "name" :"Kavya",
+            "id":"2",
+            "role":"guest",
+            "class":"guest_user"
+        }
+    ]
+}
